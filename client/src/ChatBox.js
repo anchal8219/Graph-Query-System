@@ -13,7 +13,7 @@ function ChatBox({ setGraphData, setHasQueried }) {
     setHasQueried(true);
     setLoading(true);
 
-    const res = await axios.post("https://graph-query-backend-ipxw.onrender.com/", {
+    const res = await axios.post("https://graph-query-backend-ipxw.onrender.com/ask", {
       question,
     });
     console.log("API RESPONSE:", res.data);
