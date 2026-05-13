@@ -170,3 +170,11 @@ This project demonstrates:
 - Real-world system design thinking
 
 ---
+
+## Screenshots
+<img width="958" height="346" alt="image" src="https://github.com/user-attachments/assets/6adbbef0-e518-4a70-a552-49ace7a243ba" />
+<img width="953" height="365" alt="image" src="https://github.com/user-attachments/assets/663d4e29-186c-49de-9daf-e313b8505144" />
+<img width="944" height="340" alt="image" src="https://github.com/user-attachments/assets/ff2556db-c4f5-4df6-81ec-c8129f0c4b19" />
+
+
+
